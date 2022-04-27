@@ -46,8 +46,10 @@
 @media (max-width: 1000px) {
   .main {
     width: 100%;
+    color: #eaeaea;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+
   }
 }
